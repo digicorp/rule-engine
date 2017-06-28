@@ -1,5 +1,5 @@
 {
-  "name": "rule-engine",
+  "name": "rule-parser-engine",
   "version": "1.0.0",
   "description": "This Rules Engine is used to bind the rules and gets the result based on rules.",
   "main": "index.js",
