@@ -1,0 +1,24 @@
+{
+  "name": "rule-engine",
+  "version": "1.0.0",
+  "description": "This Rules Engine is used to bind the rules and gets the result based on rules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishvaghasiya-digicorp/rule-engine.git"
+  },
+  "keywords": [
+    "rule",
+    "engine",
+    "rule-engine"
+  ],
+  "author": "Ashish Vaghasiya (Digi-Corp) and Chandrakant Thakkar (Digicorp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashishvaghasiya-digicorp/rule-engine/issues"
+  },
+  "homepage": "https://github.com/ashishvaghasiya-digicorp/rule-engine#readme"
+}
