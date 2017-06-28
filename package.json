@@ -13,7 +13,11 @@
   "keywords": [
     "rule",
     "engine",
-    "rule-engine"
+    "parser",
+    "rule-engine",
+    "rule-parser",
+    "rule-parser-engine",
+    "digi-corp"
   ],
   "author": "Ashish Vaghasiya (Digi-Corp) and Chandrakant Thakkar (Digicorp)",
   "license": "MIT",
